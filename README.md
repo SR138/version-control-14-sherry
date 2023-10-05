@@ -3,4 +3,4 @@ this is the version control repository
 
 In this project a user is asked to input their name, favorite class, and the grade they have in that class. After, the code prints out the said information in a print statement.
 
-We are gorup 14. The people in our group are Jake Pace
+We are gorup 14. The people in our group are Jake Pace, Sherry Ren, Hannah Kuklinski.
